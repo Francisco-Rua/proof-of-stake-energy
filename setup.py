@@ -13,7 +13,7 @@ setup(
         "scikit-learn",
         "ipython",
         "ipykernel",
-        "sklearn",
+        "scikit-learn",
     ],
     extras_require={"dev": ["pylint", "black"]},
 )

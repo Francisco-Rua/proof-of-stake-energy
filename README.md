@@ -66,6 +66,14 @@ repository.
 
 - Make sure your python is from the virtual environment: You can check this by running `which python` in the terminal. It should be something like `.../venv/bin/python`. If venv is already activated, in the right top corner of your terminal you should see `(venv)`.
 
+## Include new data
+
+- If you want to include new data, you need to add the new data to the data folder in the root of this repository.
+
+- Then you run the script "report_notebook.ipynb" again.
+
+Note: if you want to include new data, is really important that you follow the same format as the other data files. If you don't follow the same format, the script will not work.
+
 ## Git Large File Storage (Git LFS)
 
 All files in [`data/`](data/) are stored with `lfs`.
