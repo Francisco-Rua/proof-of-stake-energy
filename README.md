@@ -4,7 +4,7 @@
 
 ## Description
 
-- This repository contains the code to process and plot the measures taken for the Proof of Work discussion paper. There is a group of CSV files that contain the measures taken for the Proof of Stake discussion paper.
+- This repository contains the code to process and plot the measures taken for the Proof of Stake discussion paper. There is a group of CSV files that contain the measures taken for the Proof of Stake discussion paper.
 
 ## Development
 
